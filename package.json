@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
+    "yarn": "^1.22.19"
+  },
+  "name": "states_and_cities",
+  "version": "1.0.0",
+  "description": "Pega todos os estados e municipios do brasil e transforma em um JSON pra ser usado em datalist no front-end",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "gov",
+    "brasil"
+  ],
+  "author": "lkt226",
+  "license": "ISC"
+}
